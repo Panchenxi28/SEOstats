@@ -1,3 +1,5 @@
+手动同步仓库
+
 # 321w
 lspusk;
 sjss[d
